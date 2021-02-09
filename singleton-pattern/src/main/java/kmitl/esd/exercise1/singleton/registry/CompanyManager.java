@@ -7,7 +7,6 @@ import kmitl.esd.exercise1.model.business.Company;
 
 /**
  * package private concrete class for the CompanyManager
- *
  */
 class CompanyManager implements ICompanyManager {
 	protected List<Company> companies = new ArrayList<>();
