@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="singleton-pattern" />
-        <module name="composite-pattern" />
-        <module name="registration-pattern" />
         <module name="model" />
+        <module name="registration-pattern" />
+        <module name="composite-pattern" />
       </profile>
     </annotationProcessing>
   </component>

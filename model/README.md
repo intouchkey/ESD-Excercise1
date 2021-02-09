@@ -1,2 +1,2 @@
 #Tests
-Tests passed: 1
+All tests passed
