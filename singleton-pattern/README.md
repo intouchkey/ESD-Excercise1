@@ -1,5 +1,5 @@
 # Overview
-Singleton pattern using the private constructor
+Singleton patterns including simple and registration
 
 # Tests
-Tests passed: 2
+All tests passed

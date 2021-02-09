@@ -1,4 +1,4 @@
-package kmitl.esd.exercise1.singleton;
+package kmitl.esd.exercise1.singleton.simple;
 
 /**
  * A company manager that uses the singleton pattern
