@@ -23,6 +23,7 @@ class CompanyManager implements ICompanyManager {
 	/**
 	 * A function to add new companies to be managed by Company Manager
 	 *
+	 * @param companies
 	 * @return void
 	 */
 	public void setCompanies(List<Company> companies) { this.companies = companies; }

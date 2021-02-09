@@ -23,7 +23,7 @@
 		<module>model</module>
 		<module>singleton-pattern</module>
 		<module>composite-pattern</module>
-		<module>registration-pattern</module>
+		<module>strategy-pattern</module>
 	</modules>
 	<dependencies>
 		<dependency>

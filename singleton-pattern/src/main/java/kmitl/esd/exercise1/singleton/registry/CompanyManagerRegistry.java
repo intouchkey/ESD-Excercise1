@@ -32,6 +32,7 @@ public class CompanyManagerRegistry {
 	 * A function for registering a company manager to the registry
 	 * Registering is not possible, if a company manager is already registered or the new company manager is null
 	 *
+	 * @param companyManager
 	 * @return boolean status of register
 	 */
 	public Boolean register(ICompanyManager companyManager) {

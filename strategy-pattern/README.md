@@ -1,5 +1,5 @@
 # Overview
-Composite pattern
+Strategy pattern
 
 # Tests
 All tests passed
