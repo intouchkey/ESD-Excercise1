@@ -24,26 +24,49 @@ public abstract class Company implements ICompany {
 	public Company() {
 	}
 
+	/**
+	 * method for getting id
+	 *
+	 * @return id
+	 */
 	public long getId() {
 		return id;
 	}
 
+	/**
+	 * method for setting id
+	 *
+	 * @param id company id
+	 * @return void
+	 */
 	public void setId(long id) {
 		this.id = id;
 	}
 
+	/**
+	 * method for getting name
+	 *
+	 * @return name
+	 */
 	public String getName() {
 		return name;
 	}
 
-	public String setName() {
-		return null;
-	}
-
+	/**
+	 * method for setting name
+	 *
+	 * @param name company name
+	 * @return void
+	 */
 	public void setName(String name) {
 		this.name = name;
 	}
 
+	/**
+	 * method for getting tax id
+	 *
+	 * @return tax id
+	 */
 	public String getTaxId() {
 		return this.taxId;
 	}
